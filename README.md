@@ -22,4 +22,5 @@ On Local Machine:
 4. Click on Predict.
 5. Wait for 15-20 secs to view the results.
 6. Refresh the page to upload a new image.
+
  
