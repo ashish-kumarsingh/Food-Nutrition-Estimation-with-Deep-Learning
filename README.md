@@ -1,5 +1,4 @@
-# Deployment-Deep-Learning-Model
-
+# Food-Nutrition-Estimation-with-Deep-Learning
 How to run the application:
 
 This model has been deployed on Heroku:
