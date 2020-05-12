@@ -14,7 +14,7 @@ On Heroku :
 
 OR
 
-On Local Machine: 
+On a Local Machine: 
 1. Download the zip folder of the project package.
 2. Run app.py on you local machine
 3. Upload any image of Burger, Pizza, Samosa, Fried Rice, Ice Cream, French Fries.
