@@ -57,7 +57,7 @@ sklearn==0.0
 sqlparse==0.3.0
 tensorboard==2.1.0
 tensorflow==2.1.0
-tensorflow-cpu==2.1.0
+tensorflow-cpu==2.5.3
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
 urllib3==1.25.8
